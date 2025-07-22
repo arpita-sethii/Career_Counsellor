@@ -90,11 +90,11 @@ ai-career-counselor/
 
 ### Home Screen
 
-![Home Screen](assets/home.png](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162103.png )
+![Home Screen](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162103.png )
 
 ### Career Quiz
 
-![Career Quiz](assets/output.png](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162116.png )
+![Career Quiz](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162116.png )
 
 ### Career Scores
 ![Career Scores](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162135.png )
