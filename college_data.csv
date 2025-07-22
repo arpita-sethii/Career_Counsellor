@@ -1,0 +1,84 @@
+career,college,location,exam,website
+Data Scientist,IIIT Hyderabad,Hyderabad,JEE + Interview,https://iiit.ac.in
+Data Scientist,IIT Madras,Chennai,JEE Advanced,https://www.iitm.ac.in
+Data Scientist,ISI Kolkata,Kolkata,ISI Admission Test,https://www.isical.ac.in
+Data Scientist,Delhi University,Delhi,CUET,https://www.du.ac.in
+Data Scientist,Amrita Vishwa Vidyapeetham,Coimbatore,JEE/CUET,https://www.amrita.edu
+
+Doctor,AIIMS Delhi,Delhi,NEET,https://www.aiims.edu
+Doctor,CMC Vellore,Vellore,NEET,https://www.cmch-vellore.edu
+Doctor,JIPMER,Puducherry,NEET,https://jipmer.edu.in
+Doctor,KMC Manipal,Manipal,NEET,https://manipal.edu/kmc-manipal.html
+Doctor,Maulana Azad Medical College,Delhi,NEET,https://mamc.ac.in
+
+Engineer,IIT Bombay,Mumbai,JEE Advanced,https://www.iitb.ac.in
+Engineer,NIT Trichy,Trichy,JEE Main,https://www.nitt.edu
+Engineer,BITS Pilani,Pilani,BITSAT,https://www.bits-pilani.ac.in
+Engineer,VIT Vellore,Vellore,VITEEE,https://vit.ac.in
+Engineer,IIIT Delhi,Delhi,JEE Main,https://www.iiitd.ac.in
+
+AI/ML Engineer,IIIT Bangalore,Bangalore,JEE/GATE,https://www.iiitb.ac.in
+AI/ML Engineer,IIT Kharagpur,Kharagpur,JEE Advanced,https://www.iitkgp.ac.in
+AI/ML Engineer,IISc Bangalore,Bangalore,JEE Advanced,https://iisc.ac.in
+AI/ML Engineer,MIT-WPU,Pune,JEE/CET,https://mitwpu.edu.in
+AI/ML Engineer,UPES Dehradun,Dehradun,UPESAT,https://www.upes.ac.in
+
+UI/UX Designer,NID Ahmedabad,Ahmedabad,NID DAT,https://www.nid.edu
+UI/UX Designer,IDC School of Design (IIT Bombay),Mumbai,CEED,https://www.idc.iitb.ac.in
+UI/UX Designer,Srishti Manipal Institute,Bangalore,SMAT,https://srishtimanipalinstitute.in
+UI/UX Designer,MIT Institute of Design,Pune,MIT DAT,https://www.mitid.edu.in
+UI/UX Designer,UPES Dehradun,Dehradun,UPESEAT/Portfolio,https://www.upes.ac.in
+
+Content Creator,FTII Pune,Pune,Entrance Exam,https://www.ftii.ac.in
+Content Creator,Whistling Woods International,Mumbai,WWI Entrance,https://www.whistlingwoods.net
+Content Creator,XIC Mumbai,Mumbai,XIC OET,https://www.xaviercomm.org
+Content Creator,Symbiosis Centre for Media and Communication,Pune,SET,https://scmc.edu.in
+Content Creator,NIFT Delhi,Delhi,NIFT Entrance,https://www.nift.ac.in
+
+Game Developer,MAAC (Maya Academy),Multiple,In-house,https://www.maacindia.com
+Game Developer,ICAT Design & Media College,Chennai,Portfolio+Test,https://www.icat.ac.in
+Game Developer,DSK Supinfocom,Pune,Internal Test,https://www.dskic.in
+Game Developer,Backstage Pass Institute,Hyderabad,Internal Exam,https://www.backstagepass.co.in
+Game Developer,Amity University (Game Design),Noida,Amity Entrance,https://www.amity.edu
+
+Entrepreneur,ISB Hyderabad,Hyderabad,CAT/GMAT,https://www.isb.edu
+Entrepreneur,IIM Indore,Indore,IPMAT,https://www.iimidr.ac.in
+Entrepreneur,Ashoka University,Sonepat,SAT/ACT/CUET,https://www.ashoka.edu.in
+Entrepreneur,Flame University,Pune,FEAT/SAT,https://www.flame.edu.in
+Entrepreneur,SP Jain Global,Multiple,SPJET,https://www.spjain.org
+
+Psychologist,Delhi University,Delhi,CUET,https://www.du.ac.in
+Psychologist,TISS Mumbai,Mumbai,TISS NET,https://www.tiss.edu
+Psychologist,Christ University,Bangalore,CUET/Christ Entrance,https://christuniversity.in
+Psychologist,Amity University,Noida,CUET,https://www.amity.edu
+Psychologist,Symbiosis School for Liberal Arts,Pune,SET,https://www.ssla.edu.in
+
+Environmental Scientist,IISER Pune,Pune,IISER Aptitude Test,https://www.iiserpune.ac.in
+Environmental Scientist,Teri School of Advanced Studies,Delhi,CUET,https://www.terisas.ac.in
+Environmental Scientist,IIT Guwahati,Guwahati,JEE Advanced,https://www.iitg.ac.in
+Environmental Scientist,BHU Varanasi,Varanasi,CUEE,https://www.bhu.ac.in
+Environmental Scientist,Amrita School of Environmental Studies,Coimbatore,JEE/CUET,https://www.amrita.edu
+
+Space Scientist,IISc Bangalore,Bangalore,JEE Advanced,https://www.iisc.ac.in
+Space Scientist,IIT Kanpur,Kanpur,JEE Advanced,https://www.iitk.ac.in
+Space Scientist,ISRO Sponsored Programs,India,Various,https://www.isro.gov.in
+Space Scientist,Indian Institute of Space Science and Technology,Thiruvananthapuram,IISAT,https://www.iist.ac.in
+Space Scientist,Amity Institute of Space Science,Noida,Amity Entrance,https://www.amity.edu
+
+Bioinformatician,IIT Delhi,Delhi,JEE Advanced,https://home.iitd.ac.in
+Bioinformatician,SRM Institute of Science and Technology,Chennai,SRMJEEE,https://www.srmist.edu.in
+Bioinformatician,Amity Institute of Biotechnology,Noida,CUET,https://www.amity.edu
+Bioinformatician,Jawaharlal Nehru University,Delhi,CUET,https://www.jnu.ac.in
+Bioinformatician,Manipal Institute of Bioinformatics,Manipal,NEET/BTech Bio,https://manipal.edu
+
+Health Tech Innovator,IIT Hyderabad,Hyderabad,JEE Advanced,https://www.iith.ac.in
+Health Tech Innovator,IIIT Delhi (CBME),Delhi,JEE + Research,https://www.iiitd.ac.in
+Health Tech Innovator,Amrita School of Medicine+Tech,Coimbatore,JEE/NEET,https://www.amrita.edu
+Health Tech Innovator,Chitkara University Chandigarh,Chandigarh,CUET,https://www.chitkara.edu.in
+Health Tech Innovator,NIT Rourkela (BME),Rourkela,JEE Main,https://www.nitrkl.ac.in
+
+Mechatronics Engineer,IIT Hyderabad,Hyderabad,JEE Advanced,https://iith.ac.in
+Mechatronics Engineer,BITS Pilani (Goa Campus),Goa,BITSAT,https://www.bits-pilani.ac.in/goa
+Mechatronics Engineer,SRM Institute of Science & Technology,Chennai,SRMJEEE,https://www.srmist.edu.in
+Mechatronics Engineer,VIT Vellore,Vellore,VITEEE,https://vit.ac.in
+Mechatronics Engineer,MIT World Peace University,Pune,JEE Mains / MHT CET,https://mitwpu.edu.in
