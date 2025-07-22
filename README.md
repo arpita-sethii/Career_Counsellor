@@ -88,14 +88,25 @@ ai-career-counselor/
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
+### Home Screen
 
-![Home Screen](assets/home.png)
+![Home Screen](assets/home.png](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162103.png )
 
-### 📊 Career Suggestions
+### Career Quiz
 
-![Career Suggestions](assets/output.png)
+![Career Quiz](assets/output.png](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162116.png )
 
+### Career Scores
+![Career Scores](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162135.png )
+
+### Career Roadmaps with Youtube tutorial Suggestions
+![Career Roadmaps](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162201.png )
+
+### College Recommendations
+![College_Recommendations](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20162217.png )
+
+### ChatBot Response
+![ChatBot Response](https://github.com/arpita-sethii/Career_Counsellor/blob/main/Screenshot%202025-07-22%20165521.png )
 
 
 ## 🤝 Acknowledgements
